@@ -1,1 +1,1 @@
-Pierwsza linia w pliku new_file.txt
+MASTER też chciałby coś zmienić ...Pierwsza linia w pliku new_file.txt
