@@ -1,1 +1,1 @@
-Pierwsza linia w pliku new_file.txt
+F2 i coś zmieniam ... pierwsza linia w pliku new_file.txt
