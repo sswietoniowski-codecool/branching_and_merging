@@ -1,0 +1,1 @@
+Pierwsza linia w new_file3.txt
